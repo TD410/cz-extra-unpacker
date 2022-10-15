@@ -1,0 +1,11 @@
+E:\Project\CZExtra\CZExtra\bin\Debug\CZExtra.exe.config
+E:\Project\CZExtra\CZExtra\bin\Debug\CZExtra.exe
+E:\Project\CZExtra\CZExtra\bin\Debug\CZExtra.pdb
+E:\Project\CZExtra\CZExtra\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Project\CZExtra\CZExtra\bin\Debug\System.Text.Encoding.CodePages.dll
+E:\Project\CZExtra\CZExtra\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Project\CZExtra\CZExtra\bin\Debug\System.Text.Encoding.CodePages.xml
+E:\Project\CZExtra\CZExtra\obj\Debug\CZExtra.csprojResolveAssemblyReference.cache
+E:\Project\CZExtra\CZExtra\obj\Debug\CZExtra.csproj.CoreCompileInputs.cache
+E:\Project\CZExtra\CZExtra\obj\Debug\CZExtra.exe
+E:\Project\CZExtra\CZExtra\obj\Debug\CZExtra.pdb
